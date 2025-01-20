@@ -15,7 +15,7 @@ Como primer medida, *se analizaron las estructuras y el recuento obligatorio de 
 Luego de hacer un primer recorrido por el dataset principal referido a Internet, **se normalizaron los dataframes** respecto a sus variables de texto para tender a homogeneizar campos, siempre pensando en que luego habrá que relacionar todo en un **DER (Diagrama Entidad Relación)**, que deberá ser iterativo y por lo tanto si ya desde el principio utilizamos ese enfoque, se facilitará el trabajo posterior. <br>
 Se utilizaron gráficos para explicar los motivos por los cuales podrían ser de utilidad los distintos dataframes, así como se brindaron explicaciones de los motivos por los que no se utilizarían otros (ej:falta de series temporales, inconsistencia de datos numéricos, etc).
 
-## <u>**Gráfico de Demanda de Velocidad por Provincia</u>**
+<u>**Gráfico de Demanda de Velocidad por Provincia</u>**
 ![Demanda Histórica de Velocidad por Provincia ](src/Demanda%20Velocidad%20Provincia.png) <br>
 Se concluyó que la **demanda de velocidad** tiene *tendencia alcista* en la mayoría de las provincias, por lo que se consideraría oportuno presentar este tipo de información para un interesado en el sector. <br>
 
